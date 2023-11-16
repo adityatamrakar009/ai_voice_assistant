@@ -7,6 +7,7 @@ output_chat/output.txt
 __pycache__
 .vscode
 username=FrankCastlSenior
+username=adityatamrakar009
 
 # Files
 config.py
